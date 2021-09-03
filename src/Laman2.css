@@ -1,0 +1,30 @@
+
+     
+body{
+  font-family:'Roboto', sans-serif;
+}
+
+#layer {
+    position: relative;
+ 
+  z-index: 1;
+  margin-top: -87%;
+  margin-left: 20%;
+}
+
+
+
+#forma {
+    margin-top: 25%;
+
+} 
+.layer{
+  background-color: rgba(25, 52, 94, 0.65);
+position: absolute;
+z-index: 2;
+top: 0;
+left: 0;
+width: 41.5%;
+height:126%;
+margin-top: 80%;
+}
